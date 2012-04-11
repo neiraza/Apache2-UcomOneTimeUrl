@@ -1,0 +1,6 @@
+Revision history for Perl extension Apache2::UcomOneTimeUrl.
+
+0.01  Tue Dec 14 19:06:54 2010
+	- original version; created by h2xs 1.23 with options
+		-XAn Apache2::UcomOneTimeUrl
+
